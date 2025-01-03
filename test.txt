@@ -1,0 +1,13 @@
+password = "password"
+password = password
+password : "password"
+password : password
+password = "password@123"
+password = password@123
+
+default = "password"
+default = password
+default : "password"
+default : password
+default = "password@123"
+default = password@123
